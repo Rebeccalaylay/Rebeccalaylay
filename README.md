@@ -1,5 +1,3 @@
-# yy.Rebecca_Li
-
 Hello world! Here's Rebecca 🙋‍♀✨💃
 
 👩‍💻 I am a last year Master of Computing student at the University of Adelaide
